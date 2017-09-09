@@ -1,0 +1,21 @@
+/* XPM */
+static char *dummy[]={
+"41 12 6 1",
+"# c #000000",
+"c c #008100",
+"d c #00ffff",
+"b c #8381ff",
+"a c #ff00ff",
+". c #ffffff",
+"..###a###########a#bbbbbbbb#####aa#a###..",
+"##.bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.##",
+"#.bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.#",
+"#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb#",
+"#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb#",
+"#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb#",
+"#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb#",
+"#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbc",
+"#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb#",
+"#cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbc#",
+"##.bbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbbbc##",
+"..###b#b#bcc#cdd###cc##c#c#cc#c##c#####.."};
